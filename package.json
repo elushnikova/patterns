@@ -1,0 +1,17 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "Demos for design patterns",
+  "scripts": {
+    "test": "jest",
+    "cover": "jest --collectCoverage"
+  },
+  "author": "Lena Lushnikova",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.3"
+  }
+}
